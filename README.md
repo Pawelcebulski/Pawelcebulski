@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pawelcebulski
 - 👀 I’m interested in programming, painting, gaming 
-- 🌱 I’m currently learning JS and c++
+- 🌱 I’m currently learning JS and angular
 - 📫 How to reach me pawelcebulski@gmail.com
 
 <!---
